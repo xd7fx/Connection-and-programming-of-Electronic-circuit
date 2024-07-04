@@ -1,7 +1,7 @@
 # Arduino Servo Control
 
-## Description
-This project uses an Arduino Uno to control 8 servo motors. Connect the servos to digital pins 2-9. The code moves the first 6 servos to 180 degrees, the last 2 to 90 degrees, then all to 0 degrees, with a 1500ms delay between movements. Connect the servos to the breadboard, upload the code, and the servos will move as specified.
+![لقطة الشاشة 2024-07-04 191456](https://github.com/xd7fx/Connection-and-programming-of-Electronic-circuit/assets/173664349/1b5f2ff7-794e-4afe-838c-74f98b326387)
+
 
 ## Hardware Setup:
 1. Connect each of the 8 servo motors to the breadboard and ensure each servo's signal wire is connected to the appropriate pin on the Arduino as shown in the image.
@@ -19,6 +19,10 @@ This project uses an Arduino Uno to control 8 servo motors. Connect the servos t
 1. Once the code is uploaded, the Arduino will start controlling the servo motors according to the logic defined in the loop function.
 2. The servos will move to 180 degrees and 90 degrees, then return to 0 degrees after a delay of 1500 milliseconds.
 3. This setup and code will allow you to control 8 servos connected to an Arduino Uno. Ensure all connections are secure to avoid any issues during operation.
+
+
+
+https://github.com/xd7fx/Connection-and-programming-of-Electronic-circuit/assets/173664349/bb46b2d4-0437-476d-9cc0-9cc9187c8d3d
 
 
 ## Code C++
